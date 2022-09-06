@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Inventing Anna: Rachel DeLoache Williams sues Netflix for defamation",
+            "description": "Rachel DeLoache Williams says the true-life series caused \"catastrophic damage\" to her reputation.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-62727106",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2666/production/_126503890_inventinganna_netflix.jpg",
+            "publishedAt": "2022-08-30T16:07:20.5775253Z",
+            "content": "A former Vanity Fair photo editor has sued Netflix over how she was portrayed in the hit series Inventing Anna.\r\nRachel DeLoache Williams was among the real people who were depicted in the true-life … [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jackson, Mississippi has 'no water to drink or flush toilets'",
+            "description": "The 180,000 residents of Jackson, Mississippi \"indefinitely\" have no reliable running water.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62727586",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ECE0/production/_126504606_4806266425e1f93ec01cbe8ad9249da70aff6026.jpg",
+            "publishedAt": "2022-08-30T15:22:22.453108Z",
+            "content": "By Sam CabralBBC News, Washington\r\nSome 180,000 residents in Jackson, Mississippi have \"indefinitely\" lost access to reliable running water after excessive rainfall and flooding.\r\nRising floodwaters … [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iraq: Tense calm in Baghdad after cleric issues appeal",
+            "description": "Moqtada al-Sadr, who has millions of followers, apologised to Iraqis for clashes which left 23 dead.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62715772",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6067/production/_126497642_epa304449380da1c45875ad186eab940f257009dae0.jpg",
+            "publishedAt": "2022-08-30T14:52:22.6865504Z",
+            "content": "By Raffi BergBBC News\r\nThe deadly fighting in Iraq's capital appears to have subsided, after the figure at the centre of the crisis told his supporters to end their protests.\r\nHundreds of people who … [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "World Gravy Wrestling Championships returns after two-year break",
+            "description": "Organisers of the World Gravy Wrestling Championships say it is \"amazing to be back\".",
+            "url": "http://www.bbc.co.uk/news/uk-england-lancashire-62724535",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16E68/production/_126500839_hi078319389.jpg",
+            "publishedAt": "2022-08-30T11:22:17.3275418Z",
+            "content": "Fancy dress, wrestling and lashings of gravy were the order of the day as \"one of the world's craziest culinary competitions\" returned after a two-year Covid-induced hiatus.\r\nA host of wrestlers took… [+1568 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Truck spills 150,000 tomatoes causing California crash",
+            "description": "Four people are injured after a tomato truck overturns across a major motorway causing seven cars to crash.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62721021",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B783/production/_126497964_tomatoes.png",
+            "publishedAt": "2022-08-30T11:07:21.4369935Z",
+            "content": "By Merlyn ThomasBBC News\r\nA truck has spilled more than 150,000 tomatoes across a busy motorway in the US state of California, bringing traffic to a standstill.\r\nThe tomato-splattered roads caused se… [+1045 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Timed Teaser: Blast! What scuppered lift-off?",
+            "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62709936",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6715/production/_126498362_rocketpromo.jpg",
+            "publishedAt": "2022-08-30T10:07:24.1400082Z",
+            "content": "Test your news knowledge against the clock. Can you outscore your friends?\r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser. Or take Friday's quiz of the … [+75 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pakistan floods are ‘a monsoon on steroids’, warns UN chief",
+            "description": "The UN says a \"climate catastrophe\" has led to more than 1,100 deaths as it launches a big aid appeal.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62722117",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2E67/production/_126497811_mediaitem126497810.jpg",
+            "publishedAt": "2022-08-30T09:22:19.5153155Z",
+            "content": "By Simon FraserBBC News\r\nPakistan is facing \"a monsoon on steroids\", the UN's secretary general has warned, after floods submerged a third of the country.\r\nAntonio Guterres urged the world to come to… [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine says it has broken Russian lines in Kherson",
+            "description": "Ukrainian forces are launching a counter-offensive in the occupied parts of the south of the country.",
+            "url": "http://www.bbc.co.uk/news/live/world-europe-62717569",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-08-30T07:22:30.3155214Z",
+            "content": "The first\r\nshipment of grain from Ukraine to Africa since the war began has docked at the\r\nRed Sea port in Djibouti.\r\nThe Lebanese-flagged MV Brave Commander is carrying\r\n23,000 tonnes of wheat bound… [+918 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Chris Dawson: Husband in podcast-famous case guilty of murder",
+            "description": "Chris Dawson faced trial in Australia over the 1982 disappearance of his wife, Lynette.",
+            "url": "http://www.bbc.co.uk/news/world-australia-62719515",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54F1/production/_112154712_breaking.png",
+            "publishedAt": "2022-08-30T05:37:21.2382051Z",
+            "content": "By Tiffanie TurnbullBBC News, Sydney\r\nAn Australian man who became the subject of a popular crime podcast has been found guilty of his wife's cold case murder.\r\nChris Dawson's trial in a Sydney court… [+795 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Meghan interview: It takes effort to forgive, says Duchess of Sussex",
+            "description": "In a wide-ranging interview, she reflects on her time as a working member of the Royal Family.",
+            "url": "http://www.bbc.co.uk/news/uk-62717696",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12DC1/production/_126494277_gettyimages-1400892062-1.jpg",
+            "publishedAt": "2022-08-30T03:52:21.7699832Z",
+            "content": "The Duchess of Sussex has spoken of the importance of forgiveness in a wide-ranging interview with a US magazine.\r\nMeghan, 41, told The Cut \"it takes a lot of effort to forgive\" when asked about her … [+3218 chars]"
+        }
+    ]
+}
