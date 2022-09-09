@@ -35,6 +35,9 @@ export default class navbar extends PureComponent {
         <li className="nav-item">
          <Link className="nav-link" to="/technology">technology</Link>
         </li>
+        <li className="nav-item">
+         <Link className="nav-link" to="/worldnews">worldnews</Link>
+        </li>
          
            
          

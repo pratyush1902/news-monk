@@ -31,6 +31,7 @@ export default class App extends Component {
           <Route path="/general" element={<News key='general' country='in' category=' general' />} />
           <Route path="/sports" element={<News key='sports' country='in' category='sports' />} />
           <Route path="/technology" element={<News key='technology' country='in' category='technology' />} />
+          <Route path="/worldnews" element={<News key='' country='' category='' />} />
           </Routes>
         </BrowserRouter>
       </div>
