@@ -26,28 +26,29 @@ export default class App extends Component {
   render() {
     return (
       <div>
+     
 
 
         <BrowserRouter>
           <NavBar />
-          <LoadingBar
-            color='#C51ED1'
-            progress={this.state.progress}
+          {/* // <LoadingBar */}
+          {/* //   color='#C51ED1'
+          //   progress={this.state.progress}
 
             
 
-          />
+          // /> */}
 
           <Routes>
-            <Route path="/" element={<News setProgress={ this.setProgress} key="genera" country='in' category='general' />} />
+            <Route path="/" element={<News   key="genera" country='in' category='general' />} />
             {/* <Route path="/Global News" element={ <News setProgress={setProgress}  key= country='in' category='global News' />} /> */}
-            <Route path="/business" element={<News setProgress={this.setProgress} key='Business' country='in' category='Business' />} />
-            <Route path="/health" element={<News setProgress={this.setProgress} key='health' country='in' category='health' />} />
-            <Route path="/science" element={<News setProgress={this.setProgress} key='science' country='in' category='science' />} />
-            <Route path="/general" element={<News setProgress={this.setProgress} key='general' country='in' category=' general' />} />
-            <Route path="/sports" element={<News setProgress={this.setProgress} key='sports' country='in' category='sports' />} />
-            <Route path="/technology" element={<News setProgress={this.setProgress} key='technology' country='in' category='technology' />} />
-            <Route path="/worldnews" element={<News setProgress={this.setProgress} key='in' country='be' category='' />} />
+            <Route path="/business" element={<News   key='Business' country='in' category='Business' />} />
+            <Route path="/health" element={<News  key='health' country='in' category='health' />} />
+            <Route path="/science" element={<News   key='science' country='in' category='science' />} />
+            <Route path="/general" element={<News   key='general' country='in' category=' general' />} />
+            <Route path="/sports" element={<News   key='sports' country='in' category='sports' />} />
+            <Route path="/technology" element={<News   key='technology' country='in' category='technology' />} />
+            <Route path="/worldnews" element={<News   key='in' country='be' category='' />} />
           </Routes>
         </BrowserRouter>
       </div>
